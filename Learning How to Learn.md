@@ -1,6 +1,8 @@
 [Chunking - Coursera - Dynalist](media/15587524670539/Chunking%20-%20Coursera%20-%20Dynalist.pdf)
 # Learning How to Learn
-[toc]
+
+[TOC]
+
 ## Focused versus Diffuse Thinking
 ### Focused Mode
 Tight Spacing -> help keep your thoughts concentrated
